@@ -7,15 +7,14 @@ header {
     padding: 2.5em;
     font-size-adjust: 6px;
 }
-
 footer {
-        background-color: darkblue; 
-        text-align: center;
-        color: white;
-        padding: 5px;
-        width:100%;
-        display: block;
-       }
+    background-color: darkblue; 
+    text-align: center;
+    color: white;
+    padding: 5px;
+    width:100%;
+    display: block;
+}
 main {
     float:right;
     width:65%;
