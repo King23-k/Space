@@ -11,3 +11,10 @@ footer {
         color: white;
        
        }
+.links {
+    width:30%;
+    text-align:left;
+    text-decoration: none;
+    color:white;
+    background-color: teal;
+}
