@@ -34,4 +34,9 @@ main {
     float:left;
     text-decoration: none;
 }
-#triple
+#triple {
+    display: block;
+    padding: 2.5em;
+    width: 95%;
+    background-color: white;
+}
