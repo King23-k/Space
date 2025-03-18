@@ -2,7 +2,7 @@ header {
     background-image: url(stars.jpg);
     color: white;
     text-align: center;
-    width: 95%;
+    width: 95em;
     font-family: Arial, Helvetica, sans-serif;
     padding: 2.5em;
     font-size-adjust: 6px;
@@ -12,23 +12,23 @@ footer {
     text-align: center;
     color: white;
     padding: 5px;
-    width:100%;
+    width:100em;
     display: block;
 }
 main {
     float:right;
-    width:68%;
+    width:68em;
     background-color: white;
     color: black;
     padding-top: 2.5em;
     padding-bottom: 2.5em;
     padding-left: 1em;
     padding-right: 1em;
-    height: 35%;
+    height: 35em;
     display: block;
 }
 #links {
-    width:30%;
+    width:30em;
     text-align:left;
     text-decoration: none;
     color:white;
@@ -36,19 +36,19 @@ main {
     float:left;
     text-decoration: none;
     padding-top: 2.5em;
-    height: 35%;
+    height: 35em;
     list-style: none;
     display: block;
 }
 #triple {
     display: block;
     padding: 2.5em;
-    width: 95%;
+    width: 95em;
     background-color: #b0d7e5;
 }
 .sample {
     display: block;
-    width: 30%;
+    width: 30em;
     padding: 1.5em;
     float: left;
     background-color: #b0d7e5;
