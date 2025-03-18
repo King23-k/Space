@@ -33,6 +33,7 @@ main {
     background-color: teal;
     float:left;
     text-decoration: none;
+    padding-top: 2.5em;
 }
 #triple {
     display: block;
