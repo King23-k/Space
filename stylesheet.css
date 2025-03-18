@@ -33,6 +33,7 @@ main {
 ul {
     text-decoration: none;
     color:white;
+    list-style-type: none;
 }
 #full {
     display:block;
@@ -40,12 +41,10 @@ ul {
 }
 #links {
     width:30%;
-    text-align:left;
     background-color: #188a8b;
     float:left;
     padding-top: 2.5%;
     height: 35%;
-    list-style: none;
     display: block;
 }
 #triple {
