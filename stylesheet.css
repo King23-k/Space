@@ -24,6 +24,7 @@ main {
     padding-bottom: 2.5em;
     padding-left: 1em;
     padding-right: 1em;
+    height: 35%;
 }
 #links {
     width:30%;
@@ -34,6 +35,7 @@ main {
     float:left;
     text-decoration: none;
     padding-top: 2.5em;
+    height: 35%;
 }
 #triple {
     display: block;
