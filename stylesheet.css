@@ -16,7 +16,7 @@ footer {
     display: block;
 }
 main {
-    float:right;
+    float:left;
     width:68em;
     background-color: white;
     color: black;
@@ -26,6 +26,9 @@ main {
     padding-right: 1em;
     height: 35em;
     display: block;
+}
+#full {
+    display:block;
 }
 #links {
     width:30em;
