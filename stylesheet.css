@@ -14,7 +14,6 @@ footer {
     padding: 5px;
     width:100%;
     display: block;
-    float: bottom;
 }
 main {
     float:right;
@@ -26,6 +25,7 @@ main {
     padding-left: 1em;
     padding-right: 1em;
     height: 35%;
+    display: block;
 }
 #links {
     width:30%;
@@ -47,7 +47,7 @@ main {
     background-color: #b0d7e5;
 }
 .sample {
-    display: inline;
+    display: block;
     width: 30%;
     padding: 1.5em;
     float: left;
