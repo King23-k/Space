@@ -26,7 +26,7 @@ main {
     padding-left: 1em;
     padding-right: 1em;
 }
-.links {
+#links {
     width:30%;
     text-align:left;
     text-decoration: none;
