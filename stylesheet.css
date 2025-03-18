@@ -31,6 +31,7 @@ main {
 }
 #full {
     display:block;
+    margin:auto;
 }
 #links {
     width:30em;
