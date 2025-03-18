@@ -13,6 +13,16 @@ footer {
         padding: 5px;
        
        }
+main {
+    float:right;
+    width:65%;
+    background-color: white;
+    color: black;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
 .links {
     width:30%;
     text-align:left;
