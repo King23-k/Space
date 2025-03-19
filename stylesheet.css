@@ -80,9 +80,9 @@ ul {
 }
 .sample {
     display: flexbox;
-    max-width: 31%;
-    min-width: 30%;
-    padding: 1.5%;
+    max-width: 33%;
+    min-width: 32%;
+    padding: 0.5%;
     float: left;
     background-color: #b0d7e5;
     max-height:25%;
