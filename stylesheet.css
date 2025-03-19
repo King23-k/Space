@@ -34,6 +34,8 @@ ul {
     text-decoration: none;
     color:white;
     list-style-type: none;
+    min-height:35%;
+    background-color: #188a8b;
 }
 #full {
     display:block;
