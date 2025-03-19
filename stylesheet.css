@@ -67,7 +67,8 @@ ul {
     display: flex;
     flex-direction: row;
     margin: auto;
-    width: 99.5%;
+    min-width:99.8%;
+    max-width:100%;
     background-color: #b0d7e5;
     height: 25%;
 }
