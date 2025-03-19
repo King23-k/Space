@@ -61,5 +61,5 @@ ul {
     padding: 1.5%;
     float: left;
     background-color: #b0d7e5;
-    height:25%;
+    max-height:25%;
 }
