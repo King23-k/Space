@@ -64,8 +64,6 @@ ul {
 #triple {
     display: flex;
     flex-direction: row;
-    padding-top: 1.0%;
-    padding-bottom: 2.5%;
     margin: auto;
     width: 99.5%;
     background-color: #b0d7e5;
