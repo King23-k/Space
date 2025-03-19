@@ -34,7 +34,8 @@ ul {
     text-decoration: none;
     color:white;
     list-style-type: none;
-    min-height:35%;
+    height:35%;
+    width:inherit;
     background-color: #188a8b;
 }
 #full {
