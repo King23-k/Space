@@ -71,7 +71,8 @@ ul {
 }
 .sample {
     display: block;
-    max-width: 30%;
+    max-width: 31%;
+    min-width: 30%;
     padding: 1.5%;
     float: left;
     background-color: #b0d7e5;
