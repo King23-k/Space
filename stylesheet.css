@@ -44,7 +44,8 @@ ul {
     background-color: #188a8b;
     padding-top: 2.5%;
     min-height: 35%;
-    display: inline-block;
+    display: block;
+    float:left;
 }
 #triple {
     display: block;
